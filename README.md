@@ -276,30 +276,6 @@ This project helped me move from simply **visualizing data to thinking more like
 
 ---
 
-# 📁 Repository Structure
-
-```text
-AtliQ-Hardware-Business-Insights-360/
-│
-├── README.md
-│
-├── Dashboard/
-│   └── AtliQ_Hardware_Business_Insights_360.pbix
-│
-├── Screenshots/
-│   ├── Home_View.png
-│   ├── Finance_View.png
-│   ├── Sales_View.png
-│   ├── Marketing_View.png
-│   ├── Supply_Chain_View.png
-│   └── Executive_View.png
-│
-└── Assets/
-    └── project-thumbnail.png
-```
-
----
-
 # 🚀 Project Workflow
 
 **MySQL Data**  
@@ -322,7 +298,7 @@ AtliQ-Hardware-Business-Insights-360/
 
 **Aspiring Data Analyst**
 
-**Skills:** Power BI | SQL | Advanced Excel | Python | Data Analysis
+**Skills:** Power BI | SQL | Advanced Excel | Data Analysis
 
 ---
 
