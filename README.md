@@ -302,7 +302,7 @@ This project helped me move from simply **visualizing data to thinking more like
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 This project was developed as part of my learning journey with **Codebasics**, under the guidance of **Dhaval Patel**.
 
